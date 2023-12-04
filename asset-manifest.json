@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SpellHive/static/css/main.5f0ba6a5.css",
+    "main.js": "/SpellHive/static/js/main.3e27a444.js",
+    "static/media/bees.png": "/SpellHive/static/media/bees.57bdffdb879c6a20f54c.png",
+    "index.html": "/SpellHive/index.html",
+    "main.5f0ba6a5.css.map": "/SpellHive/static/css/main.5f0ba6a5.css.map",
+    "main.3e27a444.js.map": "/SpellHive/static/js/main.3e27a444.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f0ba6a5.css",
+    "static/js/main.3e27a444.js"
+  ]
+}
